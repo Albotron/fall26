@@ -1,0 +1,41 @@
+p{
+    color: red;
+}
+
+.main{
+    color: red;
+}
+
+table, th, td {
+    border-width: thin;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.tableRed {
+    background-color: firebrick;
+    color: springgreen;
+}
+
+a:link{
+    color: red;
+}
+a:visited{
+    color: pink;
+}
+a:hover{
+    color:aqua;
+}
+a:active{
+    color:rgb(102, 30, 170);
+}
+
+.pUnderline {
+    text-decoration: underline;
+}
